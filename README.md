@@ -4,6 +4,7 @@ Um projeto IOT de automação para ligar e desligar um interruptor.
 ## O que é?
 Esse é um projeto desenvolvido para resolver uma situação real. Na minha casa, existe um interruptor que é difícil de ser alcançado, logo, tive a ideia de criar um "botão wireless/sem fio" para ativar ou desativar este interruptor.
 
+![Imagem ilustrativa do projeto](imgs/projectIdea.png)
 ## Materiais utilizados
 - 1x ESP32
 - 2x ESP32 C3 SuperMini
@@ -14,6 +15,14 @@ Esse é um projeto desenvolvido para resolver uma situação real. Na minha casa
 - 2x Cabos USB-C 
 - 1x Cabo Micro-USB
 - Alguns jumpers
+
+### Circuitos
+- Circuito da placa receptora/main, que está recebendo o estado do botão e acionando o servomotor:
+![Circuito Receptor/Main](imgs/circuitoReceptorMain.png)
+
+
+- Circuito do botão que estará enviando o estado do botão:
+![Circuito Transmissor/Button](imgs/circuitoTransmissorButton.png)
 
 ## Executando o projeto
 Em breve
