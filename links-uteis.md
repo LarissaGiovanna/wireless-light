@@ -1,0 +1,8 @@
+- resolver problema de apertar boot ao enviar codigo: https://randomnerdtutorials.com/solved-failed-to-connect-to-esp32-timed-out-waiting-for-packet-header/
+- instalando esp32 no arduino ide: https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html
+- platformio ide getting started:https://randomnerdtutorials.com/vs-code-platformio-ide-esp32-esp8266-arduino/
+- instalar extensao waka time: https://wakatime.com/arduino-ide
+- repositorio esp32 github: https://github.com/espressif/arduino-esp32
+- site explicativo sobre o esp now e código (ingles): https://randomnerdtutorials.com/esp-now-esp32-arduino-ide/
+- site explicativo sobre o esp now e código (portugues): https://blog.eletrogate.com/esp-now-comunicacao-sem-fio-entre-esp32s/
+- informações sobre o esp32 c3 supermini: https://www.espboards.dev/esp32/esp32-c3-super-mini/
